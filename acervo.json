@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "O Espadachim de Carvao",
+    "author": "Affonso Solano"
+  },
+  {
+    "id": 2,
+    "title": "A Batalha do Apocalipse",
+    "author": "Eduardo Spohr"
+  },
+  {
+    "id": 3,
+    "title": "Deuses Americanos",
+    "author": "Neil Gaiman"
+  },
+  {
+    "id": 4,
+    "title": "Crianca 44",
+    "author": "Tom Rob Smith"
+  },
+  {
+    "id": 5,
+    "title": "O Espadachim de Carvao e as Pontes de Puzur",
+    "author": "Affonso Solano"
+  },
+  {
+    "id": 6,
+    "title": "Mitologia Nordica",
+    "author": "Neil Gaiman"
+  },
+  {
+    "id": 7,
+    "title": "Filhos do Eden: Herdeiros de Atlantida",
+    "author": "Eduardo Spohr"
+  },
+  {
+    "id": 8,
+    "title": "O Discurso Secreto",
+    "author": "Tom Rob Smith"
+  }
+]
